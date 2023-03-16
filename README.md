@@ -1,7 +1,7 @@
 ### Hello, I am Somedip 👋
 
-
-**Somedip/Somedip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
+Thanks for stopping by. Here's a little bit about myself...
 
 Here are some ideas to get you started:
 
