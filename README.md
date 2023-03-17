@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Somedip 👋</h1>
 <h3 align="center">Thanks for stopping by. Here's a little bit about myself...</h3>
 
-<img align="right" alt="coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somedip&label=Profile%20views&color=0e75b6&style=flat" alt="somedip" /> </p>
 
