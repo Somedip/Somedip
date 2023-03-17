@@ -1,4 +1,4 @@
-![logo](https://github.com/Somedip/Somedip/blob/main/Black%20Minimal%20Email%20Header.png)
+![logo](https://github.com/Somedip/Somedip/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hello, I'm Somedip 👋</h1>
 <h3 align="center">Thanks for stopping by. Here's a little bit about myself...</h3>
 
